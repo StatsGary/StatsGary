@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ## Gitty statistics
 Here is a summary of the key Git statistics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatsGary)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StatsGary)](https://github.com/anuraghazra/github-readme-stats)
