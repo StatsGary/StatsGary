@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - :bookmark_tabs: - blogger and website owner of [hutsons-hacks](https://hutsons-hacks.info/). 
 - :email: how to reach me - [@StatsGary](https://twitter.com/StatsGary) - you can message me, follow me, or hit me up on my Twitter channel. 
 
+## Gitty statistics
+Here is a summary of the key Git statistics:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatsGary)](https://github.com/anuraghazra/github-readme-stats)
