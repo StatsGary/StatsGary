@@ -30,6 +30,6 @@ Here is a summary of the key Git statistics:
 <!--Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StatsGary&show_icons=true&theme=cobalt&title_color='#FFFFFF')
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatsGary&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatsGary&show_icons=true&theme=cobalt&title_color='#FFFFFF'&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatsGary&hide=javascript,html,css&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
