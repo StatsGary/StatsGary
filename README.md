@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 ## Gitty statistics
 Here is a summary of the key Git statistics:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StatsGary&show_icons=true&theme=radical)
