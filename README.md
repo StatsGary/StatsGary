@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 
 ## Gitty statistics
 Here is a summary of the key Git statistics:
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StatsGary)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StatsGary&show_icons=true&theme=radical)
