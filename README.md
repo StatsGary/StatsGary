@@ -1,4 +1,4 @@
-# Repository of StatsGary aka Gary Huton - Head of Machine Learning and former Senior Data Scientist 👋
+
 
 <!--
 **StatsGary/StatsGary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
