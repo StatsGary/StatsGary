@@ -32,4 +32,4 @@ Here is a summary of the key Git statistics:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatsGary&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatsGary&hide=javascript,html, css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatsGary&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
