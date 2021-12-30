@@ -29,4 +29,7 @@ Here are some ideas to get you started:
 Here is a summary of the key Git statistics:
 <!--Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StatsGary&show_icons=true&theme=cobalt&title_color='#FFFFFF')
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatsGary&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html, css)](https://github.com/anuraghazra/github-readme-stats)
