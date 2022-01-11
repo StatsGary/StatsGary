@@ -25,12 +25,6 @@ Here are some ideas to get you started:
 - :bookmark_tabs: - blogger and website owner of [hutsons-hacks](https://hutsons-hacks.info/). 
 - :email: how to reach me - [@StatsGary](https://twitter.com/StatsGary) - you can message me, follow me, or hit me up on my Twitter channel. 
 
-## Social connections
-
-<script src="https://apis.google.com/js/platform.js"></script>
-<div class="g-ytsubscribe" data-channelid="UCESnHX6z9po7qFgiCdLKUhw" data-layout="default" data-count="default"></div>
-
-
 ## Gitty statistics
 Here is a summary of the key Git statistics:
 <!--Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
