@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## A little about me
 - 📕 Co-author of [Graph Data Modeling in Python](https://www.amazon.co.uk/Graph-Data-Modeling-Python-practical/dp/1804618039/ref=sr_1_4?crid=2PFNAL0FWQPFE&keywords=graph+data+modeling&qid=1688137963&sprefix=graph+data+modeling%2Caps%2C72&sr=8-4) and sole author of  NumPy, Pandas, and Scikit-learn MasterClass from BPB Publishing (release date September 2025).
-- :chart_with_upwards_trend: I'm currently working on a number of Machine Learning projects utilising Transformers for natural language text modelling of some of my organisation's key aims around protecting people online against bad actors and bad actor groups
+- :chart_with_upwards_trend: I'm currently working on the optimisation of Pharma supply utilising AI and generative AI. 
 - :mortar_board: I have a degree in applied business statistics and an MBA in Business & Accountancy (with modules in OR and Statistics). A fan of statistics, machine learning and anything that can be used to solve real world problems. 
 - 🌱 I’m currently learning how to use Google Cloud Platform to its greatest potential, as well as pressing on with some Python package and class development, as well as Named Entity Recognition token classification and generative AI.
 - 👯 I’m looking to collaborate on R or Python package development, as I have 8 active packages on CRAN and have two packages on PyPi. I would be happy to take you through the steps needed to get there.
